@@ -1,2 +1,2 @@
-# e-Soru-Bankasi
+# e-Soru-Bankası
 e-Soru Bankası yazılımı için dosyalar.
